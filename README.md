@@ -4,7 +4,7 @@
 
 AE-UVNet is a hybrid dual-encoder architecture for volumetric medical image segmentation.
 
-![without_notion.drawio](C:\Users\ROG\Downloads\without_notion.drawio.png)
+![Architecture](Architecture/Architecture.png)
 
 It integrates:
 
